@@ -73,43 +73,6 @@ sampler = WeightedRandomSampler(sample_weights, num_samples=len(sample_weights),
 
 ---
 
-## 🔧 Setup Instructions
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/OwaisAbuSonaina/Plant-Disease-Classification.git
-cd Plant-Disease-Classification
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install torch torchvision torchinfo matplotlib plotly pandas scikit-learn
-```
-
-### 3️⃣ Prepare Dataset
-
-Organize the dataset as shown above and update the path in your code:
-
-```python
-data_dir = "./plantvillage dataset/color_splitted"
-```
-
-### 4️⃣ Train the Model
-
-```bash
-python train.py
-```
-
-The trained model will be saved in:
-
-```
-./models/ConvNext-Tiny_First_Try.pth
-```
-
----
-
 ## 📊 Evaluation
 
 Visualize training results:
