@@ -3,7 +3,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-PlantVillage-green)
 ![Model](https://img.shields.io/badge/Model-ConvNeXt--Tiny-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > A deep learning project that classifies plant leaf diseases using a pretrained ConvNeXt-Tiny model on the PlantVillage dataset.  
 > It applies data augmentation and class balancing to achieve accurate, efficient, and automated disease detection for 38 plant categories.
