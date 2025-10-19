@@ -78,7 +78,7 @@ sampler = WeightedRandomSampler(sample_weights, num_samples=len(sample_weights),
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Plant-Disease-Classification.git
+git clone https://github.com/OwaisAbuSonaina/Plant-Disease-Classification.git
 cd Plant-Disease-Classification
 ```
 
