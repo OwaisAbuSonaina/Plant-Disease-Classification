@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🌿 Plant Disease Classification using ConvNeXt-Tiny
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
@@ -11,7 +8,6 @@
 > A deep learning project that classifies plant leaf diseases using a pretrained ConvNeXt-Tiny model on the PlantVillage dataset.  
 > It applies data augmentation and class balancing to achieve accurate, efficient, and automated disease detection for 38 plant categories.
 
----
 
 ## 🚀 Project Overview
 
