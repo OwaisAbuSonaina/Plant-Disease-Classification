@@ -128,14 +128,7 @@ python test_random_image.py
 
 **Owais**
 📍 University of Jordan – College of Information Technology
-🌐 Member of **iTeam** (AI & ML Division)
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-You’re free to use, modify, and distribute it.
 
 ---
 
