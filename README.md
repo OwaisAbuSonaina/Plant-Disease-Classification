@@ -128,10 +128,3 @@ python test_random_image.py
 
 **Owais**
 📍 University of Jordan – College of Information Technology
-
-
----
-
-⭐ **If you found this project useful, consider giving it a star!**
-
-```
